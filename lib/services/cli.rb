@@ -75,7 +75,7 @@ end
     end
 
     def film_data(film)
-        puts ""
+            puts ""
             puts "#{film.title}, #{film.release_date}"
             puts ""
             puts "#{film.description}"
